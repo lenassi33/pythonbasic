@@ -1,0 +1,2 @@
+Common divisors of 10 and 15: [1, 5]
+Common divisors of 50 and 60: [1, 2, 5, 10]
